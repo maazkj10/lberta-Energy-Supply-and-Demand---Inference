@@ -60,7 +60,7 @@ The dataset was obtained from the **Alberta Utility Commission**, containing mon
 - **Inputs**: Year as the independent variable.
 - **Outputs**: Total power generation as the dependent variable.
 - **Model Performance**: The R² value for the linear regression model was calculated, indicating how well the model explains the variance in total power generation.
-  - **R² Metric**: 0.85 (indicating a strong fit between the model and the data).
+  - **R² Metric**: 0.98 (indicating a strong fit between the model and the data).
 
 ### Model Results:
 - The model indicates a steady increase in total power generation over the years, reflecting growing energy demands.
