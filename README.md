@@ -29,7 +29,7 @@ The dataset contains monthly energy consumption and power generation data for Al
 ## 2. Exploratory Data Analysis (EDA)
 
 ### Key Findings:
-- **Seasonality**: Monthly energy consumption exhibits cyclical patterns, with higher demand during winter months.
+- **Seasonality**: Monthly energy consumption exhibits cyclical patterns, with higher demand during winter and summer months.
 - **Annual Trends**: Total annual energy consumption has fluctuated across years, reflecting variations in economic activity and weather conditions.
 - **Fuel Usage Trends**:
   - A visualization highlights the contributions of different fuel types (coal, natural gas, renewables) to total power generation.
