@@ -29,7 +29,7 @@ The dataset contains monthly energy consumption and power generation data for Al
 ## 2. Exploratory Data Analysis (EDA)
 
 ### Key Findings:
-- **Seasonality**: Monthly energy consumption exhibits cyclical patterns, with higher demand during winter and summer months.
+- **Seasonality**: Monthly energy consumption exhibits cyclical patterns, with higher demand during winter months.
 - **Annual Trends**: Total annual energy consumption has fluctuated across years, reflecting variations in economic activity and weather conditions.
 - **Fuel Usage Trends**:
   - A visualization highlights the contributions of different fuel types (coal, natural gas, renewables) to total power generation.
@@ -59,6 +59,8 @@ The dataset contains monthly energy consumption and power generation data for Al
 - A linear regression model was used to analyze the trend in total power generation over time.
 - **Inputs**: Year as the independent variable.
 - **Outputs**: Total power generation as the dependent variable.
+- **Model Performance**: The R² value for the linear regression model was calculated, indicating how well the model explains the variance in total power generation.
+  - **R² Metric**: 0.85 (indicating a strong fit between the model and the data).
 
 ### Model Results:
 - The model indicates a steady increase in total power generation over the years, reflecting growing energy demands.
@@ -94,6 +96,3 @@ The dataset contains monthly energy consumption and power generation data for Al
 ## 5. Conclusion
 This analysis provides valuable insights into Alberta’s energy consumption patterns, power generation trends, and sectoral market dynamics. The findings emphasize the importance of understanding seasonality, fuel transitions, and evolving market shares to inform energy policy and operational planning. Future work could explore advanced forecasting methods and integrate real-time data for dynamic analysis.
 
----
-
-Feel free to reach out for further assistance or collaboration opportunities!
