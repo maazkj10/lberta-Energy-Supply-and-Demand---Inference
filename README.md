@@ -7,7 +7,7 @@ This project explores historical energy consumption data in Alberta, focusing on
 ## 1. Data Exploration and Preprocessing
 
 ### Data Sources
-The dataset contains monthly energy consumption and power generation data for Alberta, with features including:
+The dataset was obtained from the **Alberta Utility Commission**, containing monthly energy consumption and power generation data for Alberta, with features including:
 - **Date**: Year and month of energy consumption.
 - **Monthly Consumption**: Energy usage for each month in GWh.
 - **Fuel Types**: Breakdown of power generation by fuel type (e.g., natural gas, coal, renewables).
@@ -60,7 +60,7 @@ The dataset contains monthly energy consumption and power generation data for Al
 - **Inputs**: Year as the independent variable.
 - **Outputs**: Total power generation as the dependent variable.
 - **Model Performance**: The R² value for the linear regression model was calculated, indicating how well the model explains the variance in total power generation.
-  - **R² Metric**: 0.98 (indicating a strong fit between the model and the data).
+  - **R² Metric**: 0.85 (indicating a strong fit between the model and the data).
 
 ### Model Results:
 - The model indicates a steady increase in total power generation over the years, reflecting growing energy demands.
@@ -96,3 +96,4 @@ The dataset contains monthly energy consumption and power generation data for Al
 ## 5. Conclusion
 This analysis provides valuable insights into Alberta’s energy consumption patterns, power generation trends, and sectoral market dynamics. The findings emphasize the importance of understanding seasonality, fuel transitions, and evolving market shares to inform energy policy and operational planning. Future work could explore advanced forecasting methods and integrate real-time data for dynamic analysis.
 
+---
